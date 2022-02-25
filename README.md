@@ -14,3 +14,5 @@ O repositório conta com os seguintes conjuntos de dados:
 - Parques
 - Praças
 - Rios
+- Área rural
+- Comunidades
